@@ -1,0 +1,10 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{\numberline {1.}Introduction}{1}%
+\contentsline {chapter}{\numberline {2.}Description of the problem}{2}%
+\contentsline {chapter}{\numberline {3.}Solution approach}{3}%
+\contentsline {chapter}{\numberline {4.}Data analysis}{4}%
+\contentsline {chapter}{\numberline {5.}Cluster Neighborhood}{8}%
+\contentsline {chapter}{\numberline {6.}Analysis of a particular neighborhood}{12}%
+\contentsline {chapter}{\numberline {7.}Conclusion}{14}%
+\contentsline {chapter}{\numberline {8.}Future works}{15}%
+\contentsline {chapter}{\numberline {9.}External links}{16}%
